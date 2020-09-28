@@ -21,7 +21,7 @@ for i in range(0, len(correctWord)):
 # Set the amount of lives to 12
 livesLeft = 7
 # Open the game (Welcome to hangman + explain the rules)
-print("Welcome to Hangman\n")
+print("Welcome to Hangman!!\n")
 # How to play:
 print("Here is how to play:")
 print("You will have" + str(livesLeft) + "lives in total.")
